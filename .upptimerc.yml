@@ -5,6 +5,8 @@ repo: uptime # The name of this repository
 sites:
   - name: genflix-prd-catalog
     url: https://d3l63rih9mbuez.cloudfront.net/catalog/v1.1/pages?locale=en
+    headers:
+      - "Cloudfront-JWT-AppId: a597d124-03e7-43e6-8435-13d667c13c15" 
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
