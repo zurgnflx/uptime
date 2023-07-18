@@ -4,19 +4,19 @@
     "url": "https://d3l63rih9mbuez.cloudfront.net/catalog/v1.1/pages?locale=en",
     "icon": "https://icons.duckduckgo.com/ip3/d3l63rih9mbuez.cloudfront.net.ico",
     "slug": "genflix-prd-catalog",
-    "status": "down",
-    "uptime": "10.92%",
-    "uptimeDay": "10.92%",
-    "uptimeWeek": "10.92%",
-    "uptimeMonth": "10.92%",
-    "uptimeYear": "10.92%",
-    "time": 599,
-    "timeDay": 599,
-    "timeWeek": 599,
-    "timeMonth": 599,
-    "timeYear": 599,
+    "status": "up",
+    "uptime": "0.43%",
+    "uptimeDay": "0.43%",
+    "uptimeWeek": "0.43%",
+    "uptimeMonth": "0.43%",
+    "uptimeYear": "0.43%",
+    "time": 1323,
+    "timeDay": 1323,
+    "timeWeek": 1323,
+    "timeMonth": 1323,
+    "timeYear": 1323,
     "dailyMinutesDown": {
-      "2023-07-18": 0
+      "2023-07-18": 18
     }
   }
 ]
