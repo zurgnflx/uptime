@@ -23,6 +23,8 @@ sites:
     url: https://d3l63rih9mbuez.cloudfront.net/subscription/v1.0/uptimes
   - name: genflix-prd-recommendation
     url: https://d3l63rih9mbuez.cloudfront.net/recommendation/v1.0/uptimes
+  - name: genflix-prd-interaction
+    url: https://d3l63rih9mbuez.cloudfront.net/interaction/v1/uptimes
   - name: genflix-prd-stat
     url: https://gcp-prd.genflix.co.id/stat/v1.0/uptimes
   - name: genflix-prd-notification
