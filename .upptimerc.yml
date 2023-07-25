@@ -13,6 +13,9 @@ sites:
       - "Cloudfront-JWT-AppId: a597d124-03e7-43e6-8435-13d667c13c15"
   - name: genflix-prd-screen
     url: https://d3l63rih9mbuez.cloudfront.net/screen/v1.0/countries/current
+  - name: genflix-prd-user
+    url: https://d3l63rih9mbuez.cloudfront.net/user/v1.1/profile/38e70787-c39c-4ee1-8908-c6de48ea8cdb/public
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
