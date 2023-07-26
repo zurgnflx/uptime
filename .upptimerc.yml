@@ -8,23 +8,19 @@ sites:
   - name: sushiroll.co.id
     url: https://sushiroll.co.id
   - name: genflix-prd-catalog
-    url: https://d3l63rih9mbuez.cloudfront.net/catalog/v1.1/pages?locale=en
-    headers:
-      - "Cloudfront-JWT-AppId: a597d124-03e7-43e6-8435-13d667c13c15"
+    url: https://d3l63rih9mbuez.cloudfront.net/catalog/v1.0/
   - name: genflix-prd-screen
-    url: https://d3l63rih9mbuez.cloudfront.net/screen/v1.0/countries/current
+    url: https://d3l63rih9mbuez.cloudfront.net/screen/v1.0/
   - name: genflix-prd-user
     url: https://prd.genflix.co.id/user/v1.1/profile/38e70787-c39c-4ee1-8908-c6de48ea8cdb/public
-  - name: testing-down
-    url:  https://thissitedoesnotexist.koj.co
-  # - name: genflix-prd-heartbeat
-  #   url: https://d3l63rih9mbuez.cloudfront.net/heartbeat/v1.0/uptimes
-  # - name: genflix-prd-loyalty
-  #   url: https://d3l63rih9mbuez.cloudfront.net/loyalty/v1.0/uptimes
-  # - name: genflix-prd-subscription
-  #   url: https://d3l63rih9mbuez.cloudfront.net/subscription/v1.0/uptimes
-  # - name: genflix-prd-recommendation
-  #   url: https://d3l63rih9mbuez.cloudfront.net/recommendation/v1.0/uptimes
+  - name: genflix-prd-heartbeat
+    url: https://d3l63rih9mbuez.cloudfront.net/heartbeat/v1.0/
+  - name: genflix-prd-loyalty
+    url: https://d3l63rih9mbuez.cloudfront.net/loyalty/v1.0/
+  - name: genflix-prd-subscription
+    url: https://d3l63rih9mbuez.cloudfront.net/subscription/v1.0/
+  - name: genflix-prd-recommendation
+    url: https://d3l63rih9mbuez.cloudfront.net/recommendation/v1.0/
   # - name: genflix-prd-interaction
   #   url: https://d3l63rih9mbuez.cloudfront.net/interaction/v1/uptimes
   # - name: genflix-prd-stat
