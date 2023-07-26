@@ -15,6 +15,8 @@ sites:
     url: https://d3l63rih9mbuez.cloudfront.net/screen/v1.0/countries/current
   - name: genflix-prd-user
     url: https://prd.genflix.co.id/user/v1.1/profile/38e70787-c39c-4ee1-8908-c6de48ea8cdb/public
+  - name: testing-down
+    url:  https://thissitedoesnotexist.koj.co
   # - name: genflix-prd-heartbeat
   #   url: https://d3l63rih9mbuez.cloudfront.net/heartbeat/v1.0/uptimes
   # - name: genflix-prd-loyalty
