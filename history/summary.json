@@ -81,11 +81,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/prd.genflix.co.id.ico",
     "slug": "genflix-prd-user",
     "status": "up",
-    "uptime": "99.07%",
+    "uptime": "99.08%",
     "uptimeDay": "97.78%",
     "uptimeWeek": "99.68%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "99.07%",
+    "uptimeYear": "99.08%",
     "time": 807,
     "timeDay": 6638,
     "timeWeek": 2586,
@@ -144,9 +144,9 @@
     "url": "https://d3l63rih9mbuez.cloudfront.net/subscription/v1.0/",
     "icon": "https://icons.duckduckgo.com/ip3/d3l63rih9mbuez.cloudfront.net.ico",
     "slug": "genflix-prd-subscription",
-    "status": "up",
+    "status": "down",
     "uptime": "98.85%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.85%",
@@ -156,6 +156,7 @@
     "timeMonth": 464,
     "timeYear": 426,
     "dailyMinutesDown": {
+      "2023-10-03": 0,
       "2023-07-26": 342,
       "2023-07-25": 799
     }
