@@ -1,7 +1,7 @@
-url: https://d3l63rih9mbuez.cloudfront.net/loyalty/v1.0/
-status: up
-code: 200
-responseTime: 363
-lastUpdated: 2023-12-06T23:16:23.028Z
+url: https://prd.genflix.co.id/loyalty/v1.0/
+status: down
+code: 401
+responseTime: 259
+lastUpdated: 2023-12-07T21:27:52.891Z
 startTime: 2023-07-26T05:41:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
