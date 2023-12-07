@@ -1,7 +1,7 @@
 url: https://d3l63rih9mbuez.cloudfront.net/recommendation/v1.0/
-status: down
-code: 502
-responseTime: 107
-lastUpdated: 2023-12-07T16:54:24.400Z
+status: up
+code: 200
+responseTime: 115
+lastUpdated: 2023-12-07T17:43:33.709Z
 startTime: 2023-07-26T05:41:44.000Z
 generator: Upptime <https://github.com/upptime/upptime>
