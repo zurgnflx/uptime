@@ -169,19 +169,19 @@
     "url": "https://d3l63rih9mbuez.cloudfront.net/recommendation/v1.0/",
     "icon": "https://icons.duckduckgo.com/ip3/d3l63rih9mbuez.cloudfront.net.ico",
     "slug": "genflix-prd-recommendation",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "94.61%",
-    "uptimeWeek": "99.23%",
-    "uptimeMonth": "99.82%",
+    "uptimeDay": "94.24%",
+    "uptimeWeek": "99.18%",
+    "uptimeMonth": "99.81%",
     "uptimeYear": "99.96%",
-    "time": 425,
-    "timeDay": 154,
-    "timeWeek": 331,
-    "timeMonth": 385,
-    "timeYear": 425,
+    "time": 423,
+    "timeDay": 149,
+    "timeWeek": 316,
+    "timeMonth": 378,
+    "timeYear": 423,
     "dailyMinutesDown": {
-      "2023-12-07": 77
+      "2023-12-07": 83
     }
   },
   {
@@ -201,7 +201,7 @@
     "timeMonth": 242,
     "timeYear": 242,
     "dailyMinutesDown": {
-      "2023-12-07": 1069,
+      "2023-12-07": 1075,
       "2023-12-06": 1440,
       "2023-12-05": 1033,
       "2023-08-28": 317,
