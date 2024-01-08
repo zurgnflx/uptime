@@ -1,7 +1,7 @@
-url: https://prd.genflix.co.id/loyalty/v1.0/
-status: down
-code: 401
-responseTime: 245
-lastUpdated: 2024-01-07T23:15:29.357Z
+url: https://gcp-stg.genflix.co.id/loyalty/v1.0/
+status: up
+code: 200
+responseTime: 247
+lastUpdated: 2024-01-08T12:53:57.868Z
 startTime: 2023-07-26T05:41:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
