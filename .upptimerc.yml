@@ -16,13 +16,13 @@ sites:
   - name: genflix-prd-heartbeat
     url: https://d3l63rih9mbuez.cloudfront.net/heartbeat/v1.0/
   - name: genflix-prd-loyalty
-    url: https://prd.genflix.co.id/loyalty/v1.0/
+    url: https://gcp-stg.genflix.co.id/loyalty/v1.0/
   - name: genflix-prd-subscription
     url: https://d3l63rih9mbuez.cloudfront.net/subscription/v1.0/
   - name: genflix-prd-recommendation
     url: https://prd.genflix.co.id/recommendation/v1.0/
   - name: genflix-prd-stat
-    url: https://prd.genflix.co.id/stat/v1.0/
+    url: https://gcp-stg.genflix.co.id/stat/v1.0/
   # - name: genflix-prd-interaction
   #   url: https://d3l63rih9mbuez.cloudfront.net/interaction/v1/uptimes
   # - name: genflix-prd-notification
