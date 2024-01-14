@@ -1,7 +1,7 @@
 url: https://gcp-stg.genflix.co.id/loyalty/v1.0/
-status: down
-code: 500
-responseTime: 370
-lastUpdated: 2024-01-14T21:58:59.574Z
+status: up
+code: 200
+responseTime: 451
+lastUpdated: 2024-01-14T22:11:01.123Z
 startTime: 2023-07-26T05:41:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
