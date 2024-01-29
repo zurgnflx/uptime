@@ -16,7 +16,7 @@ sites:
   - name: genflix-prd-heartbeat
     url: https://d3l63rih9mbuez.cloudfront.net/heartbeat/v1.0/
   - name: genflix-prd-loyalty
-    url: https://gcp-stg.genflix.co.id/loyalty/v1.0/
+    url: https://prd.genflix.co.id/loyalty/v1.0/
   - name: genflix-prd-subscription
     url: https://d3l63rih9mbuez.cloudfront.net/subscription/v1.0/
   - name: genflix-prd-recommendation
