@@ -1,7 +1,7 @@
-url: https://gcp-stg.genflix.co.id/stat/v1.0/
+url: https://prd.genflix.co.id/stat/v1.0/
 status: up
 code: 200
-responseTime: 225
-lastUpdated: 2024-01-29T23:16:00.557Z
+responseTime: 249
+lastUpdated: 2024-01-30T02:46:50.760Z
 startTime: 2023-12-05T06:46:37.831Z
 generator: Upptime <https://github.com/upptime/upptime>
