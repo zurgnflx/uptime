@@ -14,17 +14,17 @@ sites:
   - name: payment.sushiroll
     url: https://payment.sushiroll.co.id/
   - name: genflix-prd-catalog
-    url: https://d3l63rih9mbuez.cloudfront.net/catalog/v1.0/
+    url: https://prd.genflix.co.id/catalog/v1.0/promos
   - name: genflix-prd-screen
     url: https://prd.genflix.co.id/screen/v1.0/
   - name: genflix-prd-user
     url: https://prd.genflix.co.id/user/v1.0/
   - name: genflix-prd-heartbeat
-    url: https://d3l63rih9mbuez.cloudfront.net/heartbeat/v1.0/
+    url: https://prd.genflix.co.id/heartbeat/v1.0/media
   - name: genflix-prd-loyalty
     url: https://prd.genflix.co.id/loyalty/v1.0/
   - name: genflix-prd-subscription
-    url: https://d3l63rih9mbuez.cloudfront.net/subscription/v1.0/
+    url: https://prd.genflix.co.id/subscription/v1.1/packages/public
   - name: genflix-prd-recommendation
     url: https://prd.genflix.co.id/recommendation/v1.0/
   - name: genflix-prd-stat
