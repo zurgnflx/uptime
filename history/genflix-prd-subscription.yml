@@ -1,7 +1,7 @@
 url: https://prd.genflix.co.id/subscription/v1.1/packages/public
-status: up
-code: 200
-responseTime: 234
-lastUpdated: 2024-07-15T23:18:16.544Z
+status: down
+code: 500
+responseTime: 307
+lastUpdated: 2024-07-16T03:18:26.613Z
 startTime: 2023-07-26T05:41:40.000Z
 generator: Upptime <https://github.com/upptime/upptime>
