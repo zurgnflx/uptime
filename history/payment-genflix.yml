@@ -1,7 +1,7 @@
 url: https://payment.genflix.co.id/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-07-29T18:33:18.189Z
+status: up
+code: 200
+responseTime: 1414
+lastUpdated: 2024-07-29T23:10:38.268Z
 startTime: 2024-04-25T07:35:51.203Z
 generator: Upptime <https://github.com/upptime/upptime>
