@@ -45,9 +45,9 @@
     "url": "https://bo-payment.genflix.co.id/auth/",
     "icon": "https://icons.duckduckgo.com/ip3/bo-payment.genflix.co.id.ico",
     "slug": "bo-payment",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -56,16 +56,18 @@
     "timeWeek": 1055,
     "timeMonth": 1032,
     "timeYear": 1038,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-29": 0
+    }
   },
   {
     "name": "payment.genflix",
     "url": "https://payment.genflix.co.id/",
     "icon": "https://icons.duckduckgo.com/ip3/payment.genflix.co.id.ico",
     "slug": "payment-genflix",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -74,7 +76,9 @@
     "timeWeek": 1519,
     "timeMonth": 1546,
     "timeYear": 1541,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-29": 0
+    }
   },
   {
     "name": "payment.sushiroll",
@@ -144,7 +148,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/prd.genflix.co.id.ico",
     "slug": "genflix-prd-user",
     "status": "up",
-    "uptime": "99.72%",
+    "uptime": "99.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -189,7 +193,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/prd.genflix.co.id.ico",
     "slug": "genflix-prd-loyalty",
     "status": "up",
-    "uptime": "91.13%",
+    "uptime": "91.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
