@@ -10,7 +10,7 @@ sites:
   - name: bo-payment
     url: https://bo-payment.genflix.co.id/auth/
   - name: payment.genflix
-    url: https://payment.genflix.co.id/
+    url: https://payment.genflix.co.id/healthcheck.php
   - name: payment.sushiroll
     url: https://payment.sushiroll.co.id/
   - name: genflix-prd-catalog
