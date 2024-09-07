@@ -13,7 +13,7 @@
     "time": 491,
     "timeDay": 1346,
     "timeWeek": 480,
-    "timeMonth": 461,
+    "timeMonth": 445,
     "timeYear": 484,
     "dailyMinutesDown": {
       "2024-02-16": 164,
@@ -34,7 +34,7 @@
     "time": 496,
     "timeDay": 1039,
     "timeWeek": 643,
-    "timeMonth": 508,
+    "timeMonth": 490,
     "timeYear": 491,
     "dailyMinutesDown": {}
   },
@@ -72,7 +72,7 @@
     "time": 1420,
     "timeDay": 1019,
     "timeWeek": 1030,
-    "timeMonth": 1004,
+    "timeMonth": 1001,
     "timeYear": 1420,
     "dailyMinutesDown": {
       "2024-07-29": 277
@@ -92,7 +92,7 @@
     "time": 1557,
     "timeDay": 1516,
     "timeWeek": 1638,
-    "timeMonth": 1604,
+    "timeMonth": 1614,
     "timeYear": 1557,
     "dailyMinutesDown": {}
   },
@@ -101,18 +101,19 @@
     "url": "https://prd.genflix.co.id/catalog/v1.0/promos",
     "icon": "https://icons.duckduckgo.com/ip3/prd.genflix.co.id.ico",
     "slug": "genflix-prd-catalog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
     "time": 489,
     "timeDay": 354,
     "timeWeek": 375,
-    "timeMonth": 397,
+    "timeMonth": 396,
     "timeYear": 434,
     "dailyMinutesDown": {
+      "2024-09-07": 0,
       "2024-07-30": 17,
       "2024-07-13": 27,
       "2024-06-25": 384,
@@ -134,7 +135,7 @@
     "time": 319,
     "timeDay": 250,
     "timeWeek": 295,
-    "timeMonth": 297,
+    "timeMonth": 298,
     "timeYear": 350,
     "dailyMinutesDown": {
       "2024-02-16": 164,
@@ -155,7 +156,7 @@
     "time": 598,
     "timeDay": 265,
     "timeWeek": 248,
-    "timeMonth": 276,
+    "timeMonth": 275,
     "timeYear": 601,
     "dailyMinutesDown": {
       "2024-05-25": 17,
@@ -180,7 +181,7 @@
     "time": 410,
     "timeDay": 256,
     "timeWeek": 266,
-    "timeMonth": 265,
+    "timeMonth": 266,
     "timeYear": 409,
     "dailyMinutesDown": {
       "2024-06-25": 110
@@ -192,7 +193,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/prd.genflix.co.id.ico",
     "slug": "genflix-prd-loyalty",
     "status": "up",
-    "uptime": "91.99%",
+    "uptime": "92.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -254,7 +255,7 @@
     "time": 426,
     "timeDay": 382,
     "timeWeek": 280,
-    "timeMonth": 321,
+    "timeMonth": 323,
     "timeYear": 429,
     "dailyMinutesDown": {
       "2024-06-25": 384,
@@ -276,7 +277,7 @@
     "time": 300,
     "timeDay": 251,
     "timeWeek": 236,
-    "timeMonth": 248,
+    "timeMonth": 247,
     "timeYear": 284,
     "dailyMinutesDown": {
       "2024-02-16": 164,
