@@ -1,7 +1,7 @@
 url: https://prd.genflix.co.id/loyalty/v1.0/
-status: down
-code: 502
-responseTime: 244
-lastUpdated: 2025-01-19T13:40:35.050Z
+status: up
+code: 200
+responseTime: 222
+lastUpdated: 2025-01-19T13:46:16.535Z
 startTime: 2023-07-26T05:41:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
