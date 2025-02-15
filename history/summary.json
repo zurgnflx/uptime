@@ -10,14 +10,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 471,
-    "timeDay": 393,
-    "timeWeek": 321,
-    "timeMonth": 441,
-    "timeYear": 463,
-    "dailyMinutesDown": {
-      "2024-02-16": 164
-    }
+    "time": 469,
+    "timeDay": 181,
+    "timeWeek": 325,
+    "timeMonth": 408,
+    "timeYear": 460,
+    "dailyMinutesDown": {}
   },
   {
     "name": "sushiroll.co.id",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 451,
-    "timeDay": 285,
-    "timeWeek": 167,
-    "timeMonth": 434,
+    "timeDay": 1084,
+    "timeWeek": 299,
+    "timeMonth": 437,
     "timeYear": 446,
     "dailyMinutesDown": {}
   },
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 1028,
-    "timeDay": 935,
-    "timeWeek": 1048,
-    "timeMonth": 1045,
-    "timeYear": 1028,
+    "time": 1029,
+    "timeDay": 1099,
+    "timeWeek": 1060,
+    "timeMonth": 1051,
+    "timeYear": 1029,
     "dailyMinutesDown": {
       "2024-07-29": 277
     }
@@ -69,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 1203,
-    "timeDay": 1254,
-    "timeWeek": 1138,
-    "timeMonth": 1051,
+    "timeDay": 1104,
+    "timeWeek": 1152,
+    "timeMonth": 1055,
     "timeYear": 1203,
     "dailyMinutesDown": {
       "2024-07-29": 277
@@ -89,9 +87,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1598,
-    "timeDay": 1582,
-    "timeWeek": 1870,
-    "timeMonth": 1677,
+    "timeDay": 1771,
+    "timeWeek": 1874,
+    "timeMonth": 1687,
     "timeYear": 1598,
     "dailyMinutesDown": {}
   },
@@ -106,9 +104,9 @@
     "uptimeWeek": "99.64%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.83%",
-    "time": 426,
-    "timeDay": 540,
-    "timeWeek": 501,
+    "time": 427,
+    "timeDay": 482,
+    "timeWeek": 504,
     "timeMonth": 480,
     "timeYear": 461,
     "dailyMinutesDown": {
@@ -132,14 +130,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 348,
-    "timeDay": 229,
-    "timeWeek": 259,
-    "timeMonth": 260,
-    "timeYear": 354,
-    "dailyMinutesDown": {
-      "2024-02-16": 164
-    }
+    "time": 349,
+    "timeDay": 261,
+    "timeWeek": 258,
+    "timeMonth": 262,
+    "timeYear": 353,
+    "dailyMinutesDown": {}
   },
   {
     "name": "genflix-prd-user",
@@ -152,14 +148,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 503,
-    "timeDay": 235,
-    "timeWeek": 262,
-    "timeMonth": 258,
+    "time": 502,
+    "timeDay": 294,
+    "timeWeek": 264,
+    "timeMonth": 261,
     "timeYear": 294,
     "dailyMinutesDown": {
-      "2024-05-25": 17,
-      "2024-02-16": 164
+      "2024-05-25": 17
     }
   },
   {
@@ -173,10 +168,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 360,
-    "timeDay": 229,
-    "timeWeek": 258,
-    "timeMonth": 253,
+    "time": 359,
+    "timeDay": 261,
+    "timeWeek": 257,
+    "timeMonth": 255,
     "timeYear": 331,
     "dailyMinutesDown": {
       "2024-06-25": 110
@@ -188,19 +183,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/prd.genflix.co.id.ico",
     "slug": "genflix-prd-loyalty",
     "status": "up",
-    "uptime": "94.25%",
+    "uptime": "94.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 281,
-    "timeDay": 233,
-    "timeWeek": 268,
-    "timeMonth": 258,
+    "timeDay": 263,
+    "timeWeek": 265,
+    "timeMonth": 259,
     "timeYear": 252,
-    "dailyMinutesDown": {
-      "2024-02-16": 164
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "genflix-prd-subscription",
@@ -214,9 +207,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 380,
-    "timeDay": 250,
-    "timeWeek": 295,
-    "timeMonth": 282,
+    "timeDay": 463,
+    "timeWeek": 312,
+    "timeMonth": 289,
     "timeYear": 355,
     "dailyMinutesDown": {
       "2024-06-25": 384,
@@ -235,12 +228,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 253,
-    "timeDay": 229,
-    "timeWeek": 261,
-    "timeMonth": 253,
+    "timeDay": 264,
+    "timeWeek": 258,
+    "timeMonth": 254,
     "timeYear": 248,
-    "dailyMinutesDown": {
-      "2024-02-16": 164
-    }
+    "dailyMinutesDown": {}
   }
 ]
