@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 460,
-    "timeDay": 175,
-    "timeWeek": 317,
-    "timeMonth": 358,
-    "timeYear": 449,
+    "timeDay": 153,
+    "timeWeek": 310,
+    "timeMonth": 351,
+    "timeYear": 448,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 430,
-    "timeDay": 74,
-    "timeWeek": 338,
-    "timeMonth": 380,
+    "timeDay": 145,
+    "timeWeek": 307,
+    "timeMonth": 372,
     "timeYear": 443,
     "dailyMinutesDown": {}
   },
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 1032,
-    "timeDay": 1001,
-    "timeWeek": 1087,
+    "time": 1033,
+    "timeDay": 1087,
+    "timeWeek": 1086,
     "timeMonth": 1084,
-    "timeYear": 1032,
+    "timeYear": 1033,
     "dailyMinutesDown": {
       "2024-07-29": 277
     }
@@ -67,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 1182,
-    "timeDay": 1012,
+    "timeDay": 1235,
     "timeWeek": 1064,
-    "timeMonth": 1043,
+    "timeMonth": 1050,
     "timeYear": 1182,
     "dailyMinutesDown": {
       "2024-07-29": 277
@@ -87,9 +87,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1629,
-    "timeDay": 1616,
-    "timeWeek": 1719,
-    "timeMonth": 1751,
+    "timeDay": 1687,
+    "timeWeek": 1712,
+    "timeMonth": 1749,
     "timeYear": 1629,
     "dailyMinutesDown": {}
   },
@@ -105,10 +105,10 @@
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.82%",
     "time": 480,
-    "timeDay": 365,
-    "timeWeek": 2686,
-    "timeMonth": 1153,
-    "timeYear": 541,
+    "timeDay": 373,
+    "timeWeek": 2681,
+    "timeMonth": 1134,
+    "timeYear": 542,
     "dailyMinutesDown": {
       "2025-03-27": 16,
       "2025-03-26": 51,
@@ -133,10 +133,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 362,
-    "timeDay": 267,
-    "timeWeek": 268,
+    "timeDay": 269,
+    "timeWeek": 269,
     "timeMonth": 261,
-    "timeYear": 327,
+    "timeYear": 326,
     "dailyMinutesDown": {}
   },
   {
@@ -151,8 +151,8 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 379,
-    "timeDay": 283,
-    "timeWeek": 266,
+    "timeDay": 266,
+    "timeWeek": 265,
     "timeMonth": 265,
     "timeYear": 289,
     "dailyMinutesDown": {
@@ -172,10 +172,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 343,
-    "timeDay": 265,
-    "timeWeek": 262,
+    "timeDay": 262,
+    "timeWeek": 261,
     "timeMonth": 259,
-    "timeYear": 306,
+    "timeYear": 305,
     "dailyMinutesDown": {
       "2024-06-25": 110
     }
@@ -186,14 +186,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/prd.genflix.co.id.ico",
     "slug": "genflix-prd-loyalty",
     "status": "up",
-    "uptime": "94.66%",
+    "uptime": "94.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 264,
-    "timeDay": 276,
-    "timeWeek": 265,
+    "timeDay": 260,
+    "timeWeek": 264,
     "timeMonth": 259,
     "timeYear": 253,
     "dailyMinutesDown": {}
@@ -209,11 +209,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
-    "time": 367,
-    "timeDay": 304,
+    "time": 366,
+    "timeDay": 294,
     "timeWeek": 331,
     "timeMonth": 312,
-    "timeYear": 335,
+    "timeYear": 334,
     "dailyMinutesDown": {
       "2024-06-25": 384,
       "2024-06-24": 388
@@ -231,10 +231,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 246,
-    "timeDay": 265,
-    "timeWeek": 261,
+    "timeDay": 272,
+    "timeWeek": 263,
     "timeMonth": 257,
-    "timeYear": 249,
+    "timeYear": 250,
     "dailyMinutesDown": {}
   }
 ]
