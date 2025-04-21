@@ -186,19 +186,19 @@
     "url": "https://prd.genflix.co.id/loyalty/v1.0/",
     "icon": "https://icons.duckduckgo.com/ip3/prd.genflix.co.id.ico",
     "slug": "genflix-prd-loyalty",
-    "status": "down",
+    "status": "up",
     "uptime": "94.85%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 264,
-    "timeDay": 249,
+    "timeDay": 246,
     "timeWeek": 247,
-    "timeMonth": 255,
+    "timeMonth": 254,
     "timeYear": 254,
     "dailyMinutesDown": {
-      "2025-04-21": 0
+      "2025-04-21": 6
     }
   },
   {
