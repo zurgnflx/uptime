@@ -188,18 +188,16 @@
     "slug": "genflix-prd-loyalty",
     "status": "up",
     "uptime": "94.85%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 264,
     "timeDay": 246,
     "timeWeek": 247,
     "timeMonth": 254,
     "timeYear": 254,
-    "dailyMinutesDown": {
-      "2025-04-21": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "genflix-prd-subscription",
