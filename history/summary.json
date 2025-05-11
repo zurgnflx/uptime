@@ -225,19 +225,19 @@
     "url": "https://prd.genflix.co.id/recommendation/v1.0/",
     "icon": "https://icons.duckduckgo.com/ip3/prd.genflix.co.id.ico",
     "slug": "genflix-prd-recommendation",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.55%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 249,
-    "timeDay": 249,
-    "timeWeek": 243,
-    "timeMonth": 248,
+    "timeDay": 281,
+    "timeWeek": 254,
+    "timeMonth": 251,
     "timeYear": 251,
     "dailyMinutesDown": {
-      "2025-05-11": 0
+      "2025-05-11": 21
     }
   }
 ]
