@@ -80,9 +80,9 @@
     "url": "https://payment.sushiroll.co.id/",
     "icon": "https://icons.duckduckgo.com/ip3/payment.sushiroll.co.id.ico",
     "slug": "payment-sushiroll",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -91,7 +91,9 @@
     "timeWeek": 1842,
     "timeMonth": 1755,
     "timeYear": 1656,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-28": 0
+    }
   },
   {
     "name": "genflix-prd-catalog",
