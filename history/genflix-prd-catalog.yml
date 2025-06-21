@@ -1,7 +1,7 @@
 url: https://prd.genflix.co.id/catalog/v1.0/tags/distincts
-status: up
-code: 200
-responseTime: 451
-lastUpdated: 2025-06-20T23:22:02.558Z
+status: down
+code: 500
+responseTime: 540
+lastUpdated: 2025-06-21T17:56:41.443Z
 startTime: 2023-07-18T08:35:23.000Z
 generator: Upptime <https://github.com/upptime/upptime>
