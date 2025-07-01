@@ -14,7 +14,7 @@ sites:
   - name: payment.sushiroll
     url: https://payment.sushiroll.co.id/
   - name: genflix-prd-catalog
-    url: https://prd.genflix.co.id/catalog/v1.0/tags/distincts
+    url: https://prd.genflix.co.id/catalog/v1.0/showCategories?page=1&perPage=20
   - name: genflix-prd-screen
     url: https://prd.genflix.co.id/screen/v1.0/
   - name: genflix-prd-user
