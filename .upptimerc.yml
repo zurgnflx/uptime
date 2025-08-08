@@ -33,8 +33,6 @@ sites:
     url: http://117.54.9.45:4501/healthcheck.php
   # - name: genflix-prd-stat
   #   url: https://prd.genflix.co.id/stat/v1.0/
-  # - name: genflix-prd-interaction
-  #   url: https://d3l63rih9mbuez.cloudfront.net/interaction/v1/uptimes
   # - name: genflix-prd-notification
   #   url: https://prd.genflix.co.id/notification/v1.0/uptimes
 
