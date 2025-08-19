@@ -181,7 +181,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/prd.genflix.co.id.ico",
     "slug": "genflix-prd-loyalty",
     "status": "up",
-    "uptime": "95.66%",
+    "uptime": "95.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -259,9 +259,9 @@
     "url": "http://117.54.9.45:4501/healthcheck.php",
     "icon": "https://icons.duckduckgo.com/ip3/117.54.9.45.ico",
     "slug": "msap-fdn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -270,6 +270,8 @@
     "timeWeek": 429,
     "timeMonth": 417,
     "timeYear": 417,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-19": 0
+    }
   }
 ]
