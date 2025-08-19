@@ -259,19 +259,19 @@
     "url": "http://117.54.9.45:4501/healthcheck.php",
     "icon": "https://icons.duckduckgo.com/ip3/117.54.9.45.ico",
     "slug": "msap-fdn",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 417,
-    "timeDay": 387,
-    "timeWeek": 429,
-    "timeMonth": 417,
-    "timeYear": 417,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 414,
+    "timeDay": 375,
+    "timeWeek": 421,
+    "timeMonth": 414,
+    "timeYear": 414,
     "dailyMinutesDown": {
-      "2025-08-19": 0
+      "2025-08-19": 6
     }
   }
 ]
