@@ -145,17 +145,16 @@
     "slug": "genflix-prd-user",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 278,
     "timeDay": 451,
-    "timeWeek": 342,
+    "timeWeek": 354,
     "timeMonth": 292,
     "timeYear": 265,
     "dailyMinutesDown": {
-      "2025-08-20": 8,
       "2025-03-20": 16
     }
   },
