@@ -22,19 +22,19 @@
     "url": "https://sushiroll.co.id",
     "icon": "https://icons.duckduckgo.com/ip3/sushiroll.co.id.ico",
     "slug": "sushiroll-co-id",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 474,
-    "timeDay": 312,
-    "timeWeek": 538,
-    "timeMonth": 524,
-    "timeYear": 482,
+    "time": 481,
+    "timeDay": 2798,
+    "timeWeek": 1131,
+    "timeMonth": 673,
+    "timeYear": 495,
     "dailyMinutesDown": {
-      "2025-09-25": 1
+      "2025-09-25": 10
     }
   },
   {
