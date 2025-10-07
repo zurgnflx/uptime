@@ -1,7 +1,7 @@
 url: https://prd.genflix.co.id/user/v1.0/
-status: up
-code: 200
-responseTime: 252
-lastUpdated: 2025-10-06T23:18:51.700Z
+status: down
+code: 500
+responseTime: 256
+lastUpdated: 2025-10-07T15:43:33.977Z
 startTime: 2023-07-25T07:23:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
