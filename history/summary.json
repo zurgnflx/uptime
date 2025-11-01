@@ -163,36 +163,40 @@
     "url": "https://prd.genflix.co.id/heartbeat/v1.0/media",
     "icon": "https://icons.duckduckgo.com/ip3/prd.genflix.co.id.ico",
     "slug": "genflix-prd-heartbeat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 267,
-    "timeDay": 205,
-    "timeWeek": 238,
+    "timeDay": 220,
+    "timeWeek": 237,
     "timeMonth": 240,
     "timeYear": 263,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-01": 0
+    }
   },
   {
     "name": "genflix-prd-loyalty",
     "url": "https://prd.genflix.co.id/loyalty/v1.0/",
     "icon": "https://icons.duckduckgo.com/ip3/prd.genflix.co.id.ico",
     "slug": "genflix-prd-loyalty",
-    "status": "up",
+    "status": "down",
     "uptime": "96.05%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 259,
-    "timeDay": 202,
+    "timeDay": 218,
     "timeWeek": 238,
-    "timeMonth": 323,
+    "timeMonth": 320,
     "timeYear": 260,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-01": 0
+    }
   },
   {
     "name": "genflix-prd-subscription",
