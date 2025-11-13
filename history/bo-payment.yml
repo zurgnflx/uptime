@@ -1,7 +1,7 @@
 url: https://bo-payment.genflix.co.id/auth/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-11-13T06:57:42.765Z
+status: up
+code: 200
+responseTime: 1077
+lastUpdated: 2025-11-13T07:13:22.838Z
 startTime: 2024-04-25T07:35:49.725Z
 generator: Upptime <https://github.com/upptime/upptime>
