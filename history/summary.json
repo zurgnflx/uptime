@@ -40,19 +40,19 @@
     "url": "https://bo-payment.genflix.co.id/auth/",
     "icon": "https://icons.duckduckgo.com/ip3/bo-payment.genflix.co.id.ico",
     "slug": "bo-payment",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 1059,
-    "timeDay": 1012,
-    "timeWeek": 1033,
-    "timeMonth": 1018,
+    "timeDay": 1045,
+    "timeWeek": 1038,
+    "timeMonth": 1019,
     "timeYear": 1073,
     "dailyMinutesDown": {
-      "2025-11-13": 0
+      "2025-11-13": 16
     }
   },
   {
