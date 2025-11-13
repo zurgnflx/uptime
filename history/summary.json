@@ -40,9 +40,9 @@
     "url": "https://bo-payment.genflix.co.id/auth/",
     "icon": "https://icons.duckduckgo.com/ip3/bo-payment.genflix.co.id.ico",
     "slug": "bo-payment",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 1033,
     "timeMonth": 1018,
     "timeYear": 1073,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-13": 0
+    }
   },
   {
     "name": "payment.genflix",
