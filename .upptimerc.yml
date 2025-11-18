@@ -22,7 +22,7 @@ sites:
   - name: genflix-prd-heartbeat
     url: https://prd.genflix.co.id/heartbeat/v1.0/media
   - name: genflix-prd-loyalty
-    url: https://prd.genflix.co.id/loyalty/v1.0/
+    url: https://prd.genflix.co.id
   - name: genflix-prd-subscription
     url: https://prd.genflix.co.id/subscription/v1.1/packages/public
   - name: genflix-prd-recommendation
