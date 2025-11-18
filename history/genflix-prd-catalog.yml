@@ -1,7 +1,7 @@
 url: https://prd.genflix.co.id/catalog/v1.0/showCategories?page=1&perPage=20
-status: up
-code: 200
-responseTime: 644
-lastUpdated: 2025-11-18T14:46:43.272Z
+status: down
+code: 500
+responseTime: 2498
+lastUpdated: 2025-11-18T15:20:13.781Z
 startTime: 2023-07-18T08:35:23.000Z
 generator: Upptime <https://github.com/upptime/upptime>
