@@ -16,7 +16,7 @@ sites:
   - name: genflix-prd-catalog
     url: https://prd.genflix.co.id/catalog/v1.0/showCategories?page=1&perPage=20
   - name: genflix-prd-screen
-    url: https://prd.genflix.co.id/screen/v1.0/
+    url: https://prd.genflix.co.id/screen/v1.0/countries/current
   - name: genflix-prd-user
     url: https://prd.genflix.co.id/user/v1.1/profile/8535c63b-3523-4aa2-b3e0-b565ec7464cd/public
   - name: genflix-prd-heartbeat
@@ -26,7 +26,7 @@ sites:
   - name: genflix-prd-subscription
     url: https://prd.genflix.co.id/subscription/v1.1/packages/public
   - name: genflix-prd-recommendation
-    url: https://prd.genflix.co.id/recommendation/v1.0/
+    url: https://prd.genflix.co.id
   - name: msap-fcl
     url: http://117.54.9.47:4501/healthcheck.php
   - name: msap-fdn
