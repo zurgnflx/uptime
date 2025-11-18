@@ -125,9 +125,9 @@
     "slug": "genflix-prd-screen",
     "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "96.23%",
+    "uptimeDay": "96.19%",
     "uptimeWeek": "99.46%",
-    "uptimeMonth": "99.88%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.98%",
     "time": 270,
     "timeDay": 255,
@@ -135,7 +135,7 @@
     "timeMonth": 248,
     "timeYear": 257,
     "dailyMinutesDown": {
-      "2025-11-18": 54,
+      "2025-11-18": 55,
       "2025-09-15": 26,
       "2025-06-21": 18
     }
@@ -187,9 +187,9 @@
     "slug": "genflix-prd-loyalty",
     "status": "down",
     "uptime": "96.13%",
-    "uptimeDay": "96.23%",
+    "uptimeDay": "96.19%",
     "uptimeWeek": "99.46%",
-    "uptimeMonth": "99.88%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.99%",
     "time": 259,
     "timeDay": 253,
@@ -197,7 +197,7 @@
     "timeMonth": 248,
     "timeYear": 259,
     "dailyMinutesDown": {
-      "2025-11-18": 54
+      "2025-11-18": 55
     }
   },
   {
@@ -230,7 +230,7 @@
     "slug": "genflix-prd-recommendation",
     "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "96.23%",
+    "uptimeDay": "96.19%",
     "uptimeWeek": "99.46%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.89%",
@@ -240,7 +240,7 @@
     "timeMonth": 266,
     "timeYear": 258,
     "dailyMinutesDown": {
-      "2025-11-18": 54,
+      "2025-11-18": 55,
       "2025-10-27": 30,
       "2025-05-18": 219,
       "2025-05-17": 277,
