@@ -256,19 +256,19 @@
     "url": "http://117.54.9.47:4501/healthcheck.php",
     "icon": "https://icons.duckduckgo.com/ip3/117.54.9.47.ico",
     "slug": "msap-fcl",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.63%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.98%",
     "time": 419,
-    "timeDay": 399,
-    "timeWeek": 407,
-    "timeMonth": 419,
+    "timeDay": 423,
+    "timeWeek": 412,
+    "timeMonth": 420,
     "timeYear": 419,
     "dailyMinutesDown": {
-      "2025-12-27": 1
+      "2025-12-27": 34
     }
   },
   {
@@ -276,19 +276,19 @@
     "url": "http://117.54.9.45:4501/healthcheck.php",
     "icon": "https://icons.duckduckgo.com/ip3/117.54.9.45.ico",
     "slug": "msap-fdn",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.67%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.98%",
     "time": 420,
-    "timeDay": 399,
-    "timeWeek": 405,
+    "timeDay": 421,
+    "timeWeek": 410,
     "timeMonth": 419,
     "timeYear": 420,
     "dailyMinutesDown": {
-      "2025-12-27": 1
+      "2025-12-27": 34
     }
   }
 ]
