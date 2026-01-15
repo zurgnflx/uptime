@@ -61,18 +61,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/payment.genflix.co.id.ico",
     "slug": "payment-genflix",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.96%",
+    "uptimeDay": "95.03%",
+    "uptimeWeek": "99.29%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.99%",
     "time": 1072,
     "timeDay": 10359,
     "timeWeek": 3416,
     "timeMonth": 1591,
     "timeYear": 1095,
     "dailyMinutesDown": {
-      "2026-01-14": 0
+      "2026-01-15": 59,
+      "2026-01-14": 13
     }
   },
   {
