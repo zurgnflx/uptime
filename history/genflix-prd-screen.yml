@@ -1,7 +1,7 @@
 url: https://prd.genflix.co.id/screen/v1.0/countries/current
-status: up
-code: 200
-responseTime: 242
-lastUpdated: 2026-01-24T23:23:14.976Z
+status: down
+code: 502
+responseTime: 250
+lastUpdated: 2026-01-25T20:41:36.130Z
 startTime: 2023-07-20T08:02:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>
