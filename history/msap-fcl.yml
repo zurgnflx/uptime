@@ -1,7 +1,7 @@
 url: http://117.54.9.47:4501/healthcheck.php
 status: up
 code: 200
-responseTime: 466
-lastUpdated: 2026-06-25T00:16:12.845Z
+responseTime: 364
+lastUpdated: 2026-06-26T00:12:56.867Z
 startTime: 2025-08-08T09:56:29.807Z
 generator: Upptime <https://github.com/upptime/upptime>
